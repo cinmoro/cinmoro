@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @cinmoro
+👋 Hi, I’m @cinmoro!
+
 - 👀 I’m interested in becoming a better programmer.
 - 🌱 I’m currently learning about data structures and algorithms.
 - 📫 How to reach me: via email or through here!
@@ -9,3 +10,5 @@
 cinmoro/cinmoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinmoro&show_icons=true&theme=rose)
