@@ -1,10 +1,13 @@
-<h3>👋 Hello, I’m Cindy!</h3>
+<h3> 🫶 Hello, I’m Cindy!</h3>
 
-  - 👀 I’m interested in becoming a better programmer.<br/>
-  - 🌱 I’m currently learning about data structures and algorithms, web dev, and SQL.
-  - 📫 How to reach me: LinkedIn! 
-  - 😄 Pronouns: she/her
-  - ⚡ Fun fact: I enjoy baking sweets for my family and friends
+  - 🐻 Pronouns: she/her
+  - 🍰 I’m interested in becoming a better programmer.<br/>
+  - 🎀 I am currently an undergraduate student at University of Illinois at Chicago! 🏙️
+  - 🌱🌷 Hoping to grow in (currently learning): Data Structures and Algorithms, Web Development, and SQL.
+  - 🌙 Future plans: Learn about Python, Java, JavaFX, APIs, Frameworks, JS, React. 
+  - 🍓 How to reach me: via LinkedIn
+  - 🤓 Here are my ![Leetcode](https://leetcode.com/u/cinbear07/) & ![HackerRank](https://www.hackerrank.com/profile/cinbear64) profiles! Make sure to add/follow me for some friendly competition!😼
+  - 🩷 Fun fact: I enjoy baking sweets for my family and friends 🍰, rap music 🎶, cat memes 🐈, and flowers! 🌺🌻🌸🌼
 
 <!---
 cinmoro/cinmoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
