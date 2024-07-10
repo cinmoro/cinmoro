@@ -1,17 +1,17 @@
 <h3> 🫶 Hello, I’m Cindy!</h3>
 
   - 🐻 Pronouns: she/her
-  - I am interested in becoming a better programmer.<br/>
-  - 🎀 I am currently an undergraduate student at University of Illinois at Chicago! 🏙️
+  - I am interested in software engineering, data science, UX/UI design, and of course AI/ML.<br/>
+  - 🎀 I am currently an undergraduate computer science student at University of Illinois Chicago! 🏙️
   - 🌱🌷 Hoping to grow in (currently learning): Data Structures and Algorithms, Web Development, and SQL.
   - 🌙 Future plans: Learn about Python, Java, JavaFX, APIs, Frameworks, JS, React. 
   - 🍓 How to reach me: via LinkedIn
-  - 🤓 Here are my ![Leetcode](https://leetcode.com/u/cinbear07/) & ![HackerRank](https://www.hackerrank.com/profile/cinbear64) profiles! Make sure to add/follow me for some friendly competition!😼
+  - 🤓 Here are my [Leetcode](https://leetcode.com/u/cinbear07/) & [HackerRank](https://www.hackerrank.com/profile/cinbear64) profiles! Make sure to add/follow me for some friendly competition!😼
   - 🩷 Some little fun facts about me:
   - I enjoy...
        - 🍰 baking/making sweets for my family and friends
        - 🎶 rap music
-       - 🐈 cat memes, and just cats in general
+       - 🐈 cat memes, and cats in general too
        - 📺 watching anime
        - 🌺🌻🌸🌼anything pink and flowers!
 <!---
