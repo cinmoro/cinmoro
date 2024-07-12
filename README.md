@@ -34,3 +34,4 @@ You can click the Preview link to take a look at your changes.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinmoro&show_icons=true&theme=rose)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinmoro&hide=makefile&layout=compact&theme=rose)
