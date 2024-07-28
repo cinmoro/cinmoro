@@ -3,14 +3,11 @@
   - 🐻 Pronouns: she/her
   - I am interested in <b>software engineering</b>, data science, UX/UI design, and of course AI/ML.<br/>
   - 🎀 I am currently an undergraduate computer science student at University of Illinois Chicago! 🏙️
-  - 🌱🌷 Hoping to grow in (currently learning): Data Structures and Algorithms, Web Development, and SQL.
-  - 🌙 Goals this year: Learn about Python, Java, JavaFX, APIs, Frameworks, JS, React. 
   - 🍓 How to reach me: via LinkedIn
   - 🩷 Some little fun facts about me:
   - Outside of programming/learning about computer science,
     I enjoy...
        - 🍰 baking/making sweets for my family and friends
-       - 🎨 arts and crafts
        - 🎶 listening to different music genres
        - 🐈 cat memes, and cats in general too
        - 📺 watching anime
