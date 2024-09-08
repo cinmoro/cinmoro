@@ -1,7 +1,7 @@
 <h3> 🫶 Hello, I’m Cindy!</h3>
 
   - 🐻 Pronouns: she/her
-  - I am interested in a career in<b>software engineering</b>, and learning more about data science. <br/>
+  - I am interested in a career/internship in <b>software engineering</b>, and learning more about data science and web development. <br/>
   - 🎀 I am currently an undergraduate computer science student at University of Illinois Chicago! 🏙️
   - 🍓 How to reach me: via LinkedIn
   - 🩷 Some little fun facts about me:
