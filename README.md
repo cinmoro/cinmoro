@@ -1,7 +1,7 @@
 <h3> 🫶 Hello, I’m Cindy!</h3>
 
   - 🐻 Pronouns: she/her
-  - I am interested in <b>software engineering</b>, data science, UX/UI design, and of course AI/ML.<br/>
+  - I am interested in a career in<b>software engineering</b>, and learning more about data science. <br/>
   - 🎀 I am currently an undergraduate computer science student at University of Illinois Chicago! 🏙️
   - 🍓 How to reach me: via LinkedIn
   - 🩷 Some little fun facts about me:
@@ -9,9 +9,7 @@
     I enjoy...
        - 🍰 baking/making sweets for my family and friends
        - 🎶 listening to different music genres
-       - 🐈 cat memes, and cats in general too
-       - 📺 watching anime
-       - 🌺🌻🌸🌼anything pink, sanrio, and flowers!
+       - 🌺🌻🌸🌼anything pink, and flowers!
 <h3>Techstack</h3>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
