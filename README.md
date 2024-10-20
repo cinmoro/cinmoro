@@ -4,12 +4,6 @@
   - I am interested in a career/internship in <b>software engineering</b>, and learning more about data science and web development. <br/>
   - 🎀 I am currently an undergraduate computer science student at University of Illinois Chicago! 🏙️
   - 🍓 How to reach me: via LinkedIn
-  - 🩷 Some little fun facts about me:
-  - Outside of programming/learning about computer science,
-    I enjoy...
-       - 🍰 baking/making sweets for my family and friends
-       - 🎶 listening to different music genres
-       - 🌺🌻🌸🌼anything pink, and flowers!
 <h3>Techstack</h3>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
