@@ -23,6 +23,9 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+![](https://komarev.com/ghpvc/?username=cinmoro&style=flat-square&color=ffb5c0&label=visitors) 𖦹 ☼ ⋆｡˚⋆ฺ ♡ Thanks for stopping by!👋 °❀⋆.ೃ࿔*:･
+
+
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <!-- ![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinmoro&show_icons=true&theme=rose)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinmoro&hide=makefile,html&layout=compact&theme=rose) -->
